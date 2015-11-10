@@ -7,6 +7,8 @@ React client-side and server-side rendering using React, React-Engine and Expres
 $ npm install
 $ gulp
 $ npm start
+
+# Visit: http://localhost:5000
 ```
 
 ## Directory structure
